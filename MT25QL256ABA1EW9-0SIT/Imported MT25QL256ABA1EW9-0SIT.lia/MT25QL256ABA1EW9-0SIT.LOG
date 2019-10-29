@@ -1,0 +1,30 @@
+PCAD Importer Log
+Project : MT25QL256ABA1EW9-0SIT.LibPkg
+
+Section : C:\Users\kathe\Downloads\MT25QL256ABA1EW9-0SIT\MT25QL256ABA1EW9-0SIT.lia
+    Section : PCB Library - MT25QL256ABA1EW9-0SIT.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token MT25QL256ABA1EW9-0SIT On Line 166
+            Warning - 1 : Skipping Token attachedSymbol On Line 283
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - MT25QL256ABA1EW9-0SIT.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 107
+            Warning - 1 : Skipping Token layerContents On Line 133
+            Warning - 1 : Skipping Token layerContents On Line 141
+            Warning - 1 : Skipping Token layerContents On Line 149
+            Warning - 1 : Skipping Token layerContents On Line 158
+        EndSection
+
+        Section : Generating SCH Library - MT25QL256ABA1EW9-0SIT.SchLib
+        EndSection
+    EndSection
+EndSection

@@ -1,0 +1,30 @@
+PCAD Importer Log
+Project : ATSAMD51J19A-MU.LibPkg
+
+Section : C:\Users\kathe\Downloads\ATSAMD51J19A-MU\ATSAMD51J19A-MU.lia
+    Section : PCB Library - ATSAMD51J19A-MU.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token ATSAMD51J19A-MU On Line 226
+            Warning - 1 : Skipping Token attachedSymbol On Line 893
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - ATSAMD51J19A-MU.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 163
+            Warning - 1 : Skipping Token layerContents On Line 189
+            Warning - 1 : Skipping Token layerContents On Line 195
+            Warning - 1 : Skipping Token layerContents On Line 206
+            Warning - 1 : Skipping Token layerContents On Line 215
+        EndSection
+
+        Section : Generating SCH Library - ATSAMD51J19A-MU.SchLib
+        EndSection
+    EndSection
+EndSection
