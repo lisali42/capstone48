@@ -1,0 +1,31 @@
+PCAD Importer Log
+Project : ICM-20649.LibPkg
+
+Section : C:\Users\angus\Documents\UBC\2019W1\ELEC 494\HardwareRepo\capstone48\ICM-20649 (2)\ICM-20649.lia
+    Section : PCB Library - ICM-20649.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token ICM-20649 On Line 205
+            Warning - 1 : Skipping Token attachedSymbol On Line 372
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - ICM-20649.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 110
+            Warning - 1 : Skipping Token layerContents On Line 119
+            Warning - 1 : Skipping Token layerContents On Line 128
+            Warning - 1 : Skipping Token layerContents On Line 142
+            Warning - 1 : Skipping Token layerContents On Line 156
+            Warning - 1 : Skipping Token layerContents On Line 170
+            Warning - 1 : Skipping Token layerContents On Line 192
+        EndSection
+
+        Section : Generating SCH Library - ICM-20649.SchLib
+        EndSection
+    EndSection
+EndSection

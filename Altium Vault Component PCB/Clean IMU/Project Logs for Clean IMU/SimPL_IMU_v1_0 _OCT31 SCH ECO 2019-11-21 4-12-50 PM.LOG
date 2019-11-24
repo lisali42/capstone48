@@ -1,0 +1,3 @@
+Remove Pin=U1A-B2 From Net=SPI_SCLK
+Remove Pin=U1A-D2 From Net=SPI_MISO
+Remove Pin=U1A-D3 From Net=SPI_MOSI

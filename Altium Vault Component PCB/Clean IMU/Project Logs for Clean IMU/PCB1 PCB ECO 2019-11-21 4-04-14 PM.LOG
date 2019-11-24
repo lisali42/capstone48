@@ -1,0 +1,89 @@
+Change Component Description : Designator=C11 Old Description=1? New Description=1?|ÌF ceramic capacitors    A capacitor is a passive two-terminal electrical component used to store electrical energy temporarily in an electric field.
+Added Component: Designator=U1(MICT-12-24)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://www.micron.com/~/media/documents/products/data-sheet/nor-flash/serial-nor/mt25q/die-rev-a/mt25q_qljs_l_256_aba_0.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. I, 07/2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Micron"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.micron.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "24-Ball Plastic Ball Grid Array, Body 8 x 6 mm, Pitch 1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "12-24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Added Component: Designator=U4(*QFN40P300X300X95-24N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TDK InvenSense"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ICM-20649"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "QFN-24 InvenSense"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ICM-20649/TDK%20InvenSense/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U5(*PQFN50P322X300X114-16N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ADXL372BCCZ-RL7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "LGA-16 Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ADXL372BCCZ-RL7/Analog%20Devices%20Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U7(*VISHAY_VCNL4040_4X2X1.1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "VCNL4040M3OE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD-8 Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/VCNL4040M3OE/Vishay%20Semiconductor%20Opto%20Division/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U8(*SOT95P285X140-5N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Diodes Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AP2112K-3.3TRG1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-753 Diodes Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/AP2112K-3.3TRG1/Diodes%20Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SPI_SCLK Pin=U1-B2
+Added Pin To Net: NetName=GND Pin=U1-B3
+Added Pin To Net: NetName=+3V3 Pin=U1-B4
+Added Pin To Net: NetName=CS_MEM Pin=U1-C2
+Added Pin To Net: NetName=SPI_W Pin=U1-C4
+Added Pin To Net: NetName=SPI_MISO Pin=U1-D2
+Added Pin To Net: NetName=SPI_MOSI Pin=U1-D3
+Added Pin To Net: NetName=SPI_HOLD Pin=U1-D4
+Added Pin To Net: NetName=+3V3 Pin=U4-8
+Added Pin To Net: NetName=SPI_MOSI Pin=U4-9
+Added Pin To Net: NetName=NetC6_1 Pin=U4-10
+Added Pin To Net: NetName=GYRO_INT1 Pin=U4-12
+Added Pin To Net: NetName=+3V3 Pin=U4-13
+Added Pin To Net: NetName=GND Pin=U4-18
+Added Pin To Net: NetName=GYRO_INT2 Pin=U4-19
+Added Pin To Net: NetName=GND Pin=U4-20
+Added Pin To Net: NetName=GYRO_CS Pin=U4-22
+Added Pin To Net: NetName=SPI_SCLK Pin=U4-23
+Added Pin To Net: NetName=SPI_MISO Pin=U4-24
+Added Pin To Net: NetName=+3V3 Pin=U5-1
+Added Pin To Net: NetName=SPI_SCLK Pin=U5-4
+Added Pin To Net: NetName=SPI_MOSI Pin=U5-6
+Added Pin To Net: NetName=SPI_MISO Pin=U5-7
+Added Pin To Net: NetName=ACCEL_CS Pin=U5-8
+Added Pin To Net: NetName=ACCEL_INT2 Pin=U5-9
+Added Pin To Net: NetName=ACCEL_INT1 Pin=U5-11
+Added Pin To Net: NetName=GND Pin=U5-12
+Added Pin To Net: NetName=GND Pin=U5-13
+Added Pin To Net: NetName=+3V3 Pin=U5-14
+Added Pin To Net: NetName=GND Pin=U5-16
+Added Pin To Net: NetName=GND Pin=U7-1
+Added Pin To Net: NetName=CATHODE Pin=U7-2
+Added Pin To Net: NetName=+3V3 Pin=U7-3
+Added Pin To Net: NetName=+3V3 Pin=U7-4
+Added Pin To Net: NetName=CATHODE Pin=U7-5
+Added Pin To Net: NetName=IR_INT Pin=U7-6
+Added Pin To Net: NetName=I2C_SDA Pin=U7-7
+Added Pin To Net: NetName=I2C_SCL Pin=U7-8
+Added Pin To Net: NetName=VBAT Pin=U8-1
+Added Pin To Net: NetName=GND Pin=U8-2
+Added Pin To Net: NetName=NetR9_1 Pin=U8-3
+Added Pin To Net: NetName=+3V3 Pin=U8-5

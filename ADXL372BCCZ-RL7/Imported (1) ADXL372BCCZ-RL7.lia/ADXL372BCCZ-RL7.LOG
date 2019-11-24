@@ -1,0 +1,28 @@
+PCAD Importer Log
+Project : ADXL372BCCZ-RL7.LibPkg
+
+Section : C:\Users\angus\Documents\UBC\2019W1\ELEC 494\HardwareRepo\capstone48\ADXL372BCCZ-RL7\ADXL372BCCZ-RL7.lia
+    Section : PCB Library - ADXL372BCCZ-RL7.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token ADXL372BCCZ-RL7 On Line 135
+            Warning - 1 : Skipping Token attachedSymbol On Line 272
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - ADXL372BCCZ-RL7.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 102
+            Warning - 1 : Skipping Token layerContents On Line 111
+            Warning - 1 : Skipping Token layerContents On Line 120
+            Warning - 1 : Skipping Token layerContents On Line 127
+        EndSection
+
+        Section : Generating SCH Library - ADXL372BCCZ-RL7.SchLib
+        EndSection
+    EndSection
+EndSection
