@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=GND Pin=P11-1
+Added Pin To Net: NetName=+3V3 Pin=P11-2
+Added Pin To Net: NetName=+3V3 Pin=P11-3
+Added Member To Class: ClassName=SimPL_IMU_v1_1 _DEC19 Member=Component P11 3pin

@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=ACCEL_SCLK Pin=P5-3
+Added Pin To Net: NetName=ACCEL_MOSI Pin=P5-3

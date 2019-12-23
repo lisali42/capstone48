@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=+3V3 Pin=P9-1
+Removed Pin From Net: NetName=+3V3 Pin=P9-2
+Removed Member From Class: ClassName=SimPL_IMU_v1_1 _DEC19 Member=P11
+Change Component Designator: OldDesignator=P10 NewDesignator=P9
+Change Component Designator: OldDesignator=P11 NewDesignator=P10

@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=MEM_MOSI Pin=P6-1
+Added Pin To Net: NetName=MEM_CS Pin=P6-2
+Added Pin To Net: NetName=MEM_MISO Pin=U1-5

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GYRO_CS Pin=P6-4
+Added Pin To Net: NetName=MEM_SCLK Pin=P6-3
+Added Pin To Net: NetName=MEM_MISO Pin=P6-4
+Change Net Name : Old Net Name=SPI_MISO1 New Net Name=MEM_CS
+Change Net Name : Old Net Name=SPI_MOSI1 New Net Name=MEM_MOSI

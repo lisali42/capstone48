@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=GYRO_MOSI Pin=P7-1
+Added Pin To Net: NetName=GYRO_CS Pin=P7-4
+Change Net Name : Old Net Name=SPI_MISO2 New Net Name=GYRO_MISO
+Change Net Name : Old Net Name=SPI_SCLK2 New Net Name=GYRO_SCLK

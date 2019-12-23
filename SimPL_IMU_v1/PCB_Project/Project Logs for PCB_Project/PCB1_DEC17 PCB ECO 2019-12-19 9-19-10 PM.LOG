@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=ACCEL_CS Pin=P5-4
+Change Component Description : Designator=U5 Old Description=Accelerometer Triple ±200g 2.5V 16-Pin LGA T/R New Description=
+Accelerometer Triple ±200g 2.5V 16-Pin LGA T/R
+
+Added Pin To Net: NetName=ACCEL_CS Pin=P5-1
+Added Pin To Net: NetName=ACCEL_MISO Pin=P5-2
+Added Pin To Net: NetName=ACCEL_SCLK Pin=P5-3
+Added Pin To Net: NetName=ACCEL_SCLK Pin=P5-4

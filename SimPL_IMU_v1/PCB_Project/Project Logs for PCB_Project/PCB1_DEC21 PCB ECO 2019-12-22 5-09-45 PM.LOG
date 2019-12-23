@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=+3V3 Pin=P9-1
+Removed Pin From Net: NetName=+3V3 Pin=P9-2
+Change Component Designator: OldDesignator=P10 NewDesignator=P9
+Change Component Description : Designator=U5 Old Description=Accelerometer Triple ±200g 2.5V 16-Pin LGA T/R New Description=
+Accelerometer Triple ±200g 2.5V 16-Pin LGA T/R
+
+Added Member To Class: ClassName=SimPL_IMU_v1_1 _DEC19 Member=Component P9 3pin

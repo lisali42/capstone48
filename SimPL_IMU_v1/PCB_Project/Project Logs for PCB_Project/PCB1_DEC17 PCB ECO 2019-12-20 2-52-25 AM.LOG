@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GYRO_INT1 Pin=U3-6
+Removed Pin From Net: NetName=GYRO_INT2 Pin=U3-7
+Added Pin To Net: NetName=GYRO_INT2 Pin=U3-6
+Added Pin To Net: NetName=GYRO_INT1 Pin=U3-7

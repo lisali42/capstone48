@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=CS_MEM Pin=U3-14
+Removed Pin From Net: NetName=RX Pin=U3-27
+Removed Pin From Net: NetName=TX Pin=U3-28
+Removed Pin From Net: NetName=RST_CLK Pin=U3-29
+Removed Pin From Net: NetName=SPI_MOSI1 Pin=U4-9
+Removed Pin From Net: NetName=SPI_SCLK Pin=U5-4
+Change Component Description : Designator=U5 Old Description=Accelerometer Triple ±200g 2.5V 16-Pin LGA T/R New Description=
+Accelerometer Triple ±200g 2.5V 16-Pin LGA T/R
+
+Added Pin To Net: NetName=RST_CLK Pin=U3-27
+Added Pin To Net: NetName=RX Pin=U3-28
+Added Pin To Net: NetName=ACCEL_SCLK Pin=U3-14
+Added Pin To Net: NetName=ACCEL_SCLK Pin=U5-4
+Added Net: Name=ACCEL_SCLK
+Added Pin To Net: NetName=GYRO_MOSI Pin=U4-9
+Added Net: Name=GYRO_MOSI
+Change Class Name : Old Net Name=SimPL_IMU_v1_0_NOV23 New Net Name=SimPL_IMU_v1_0_DEC19
+Change Class Name : Old Net Name=SimPL_IMU_v1_1 _NOV23 New Net Name=SimPL_IMU_v1_1 _DEC19
+Change Room Name: Old Name=SimPL_IMU_v1_1 _NOV23 New Name=SimPL_IMU_v1_1 _DEC19
+Change Room Scope: Old Scope=InComponentClass('SimPL_IMU_v1_1 _NOV23') New Scope=InComponentClass('SimPL_IMU_v1_1 _DEC19')
+Added Room: Name=SimPL_IMU_v1_0_DEC19
