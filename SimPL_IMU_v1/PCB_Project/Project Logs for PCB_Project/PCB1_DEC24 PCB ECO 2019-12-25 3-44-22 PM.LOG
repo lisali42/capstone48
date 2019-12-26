@@ -1,0 +1,8 @@
+Removed Member From Class: ClassName=SimPL_IMU_v1_0_DEC19 Member=P8
+Change Component Designator: OldDesignator=P8 NewDesignator=P10
+Change Component Description : Designator=U5 Old Description=Accelerometer Triple ±200g 2.5V 16-Pin LGA T/R New Description=
+Accelerometer Triple ±200g 2.5V 16-Pin LGA T/R
+
+Added Member To Class: ClassName=SimPL_IMU_v1_0_DEC19 Member=Component C21 1uF
+Added Member To Class: ClassName=SimPL_IMU_v1_1 _DEC19 Member=Component P9 3pin
+Added Member To Class: ClassName=SimPL_IMU_v1_0_DEC19 Member=Component P10 2pin header
