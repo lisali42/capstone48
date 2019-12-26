@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\angus\Documents\UBC\2019W1\ELEC 494\HardwareRepo\capstone48\PCB1_DEC25.pcbdoc
-Date     : 2019-12-25
-Time     : 11:39:50 PM
+Date     : 2019-12-26
+Time     : 12:13:56 AM
 
 Processing Rule : Clearance Constraint (Gap=5mil) (All),(All)
    Violation between Clearance Constraint: (Collision < 5mil) Between Pad U3-49(953.218mil,724.854mil) on Top Layer And Via (1024.084mil,653.988mil) from Top Layer to Bottom Layer 
@@ -46,8 +46,7 @@ Rule Violations :16
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
    Violation between Un-Routed Net Constraint: Net +3V3 Between Pad P9-2(2196.218mil,247.543mil) on Multi-Layer And Pad P9-3(2296.218mil,247.543mil) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net +3V3 Between Track (1043.895mil,600.964mil)(1080mil,564.86mil) on Top Layer And Track (1045mil,844.315mil)(1056.096mil,844.315mil) on Top Layer 
-Rule Violations :2
+Rule Violations :1
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
@@ -212,6 +211,6 @@ Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (
 Rule Violations :0
 
 
-Violations Detected : 157
+Violations Detected : 156
 Waived Violations : 0
 Time Elapsed        : 00:00:01
